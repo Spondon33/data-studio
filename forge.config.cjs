@@ -17,7 +17,9 @@ module.exports = {
     {
       name: '@electron-forge/maker-squirrel',
       config: {authors: 'Spondon',
-        description: 'Data Analysis Studio',},
+        description: 'Data Analysis Studio',
+        setupIcon: './assets/icon.ico',
+        iconUrl: 'https://raw.githubusercontent.com/Spondon33/data-studio/master/assets/icon.ico',},
     },
     {
       name: '@electron-forge/maker-zip',
