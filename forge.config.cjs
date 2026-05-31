@@ -16,7 +16,8 @@ module.exports = {
     },
     {
       name: '@electron-forge/maker-squirrel',
-      config: {},
+      config: {authors: 'Spondon',
+        description: 'Data Analysis Studio',},
     },
     {
       name: '@electron-forge/maker-zip',
