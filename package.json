@@ -2,6 +2,8 @@
   "name": "data-studio",
   "private": true,
   "version": "0.0.0",
+  "description": "Data Analysis Studio",
+  "author": "Spondon",
   "type": "module",
   "main": "main.cjs",
   "scripts": {
